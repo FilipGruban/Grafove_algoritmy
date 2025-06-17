@@ -1,6 +1,7 @@
 # Grafove_algoritmy
 
 1. Úvod do grafů
+   
 1.1 Definice grafu
 
 Graf je matematická struktura, která se skládá z množiny vrcholů (uzlů) a množiny hran (spojení mezi vrcholy).
@@ -45,6 +46,7 @@ Např.: Cesta A → B → D s délkou 10 je kratší než A → C → E → D s 
     Pokud navíc existují záporné cykly (lze obcházet cyklus a snižovat vzdálenost stále níže), většina algoritmů není schopná najít řešení.
 
 3. Přehled algoritmů
+   
 3.a Dijkstrův algoritmus
 
     Princip: greedy přístup, vybírá vždy vrchol s aktuálně nejnižší známou vzdáleností, používá prioritní frontu.
